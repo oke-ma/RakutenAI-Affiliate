@@ -142,9 +142,12 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--sort",
         type=str,
-        default="-reviewCount",
+        default="standard",
         choices=["standard", "+itemPrice", "-itemPrice", "+reviewCount", "-reviewCount", "+reviewAverage", "-reviewAverage"],
-        help="APIから取得する際の並び順(デフォルト: レビュー件数の多い順)",
+        help="APIから取得する際の並び順(デフォルト: standard。"
+        "-reviewCount(レビュー件数の多い順)は、廃止済みの定番・比較検討型(6-1)向けの初期値が"
+        "残っていたもので、発見・驚き型(6-2)の候補選定(reviewCount順・評価順での選定を禁止する"
+        "ルール)と矛盾するため、2026-08-19にデフォルトをstandardへ変更した。",
     )
     parser.add_argument(
         "--output-suffix",
