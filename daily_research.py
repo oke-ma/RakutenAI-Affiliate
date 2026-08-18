@@ -1,10 +1,10 @@
 """
-毎朝のローテーション対象ジャンル(TOP5用1件・単発用2件、計3件)について、
+毎朝のローテーション対象ジャンル(発見・驚き型2件)について、
 products/rakuten_item_search.py と同じロジックで商品リサーチを実行し、
 結果を products/ 配下にJSON保存するスクリプト。
 
-- posts/rotation_state.json(top5_index, discovery_index)と
-  posts/rotation_genres.json(TOP5リスト・単発リストの唯一の正式な情報源)を
+- posts/rotation_state.json(discovery_index)と
+  posts/rotation_genres.json(単発ローテーション対象39ジャンルの唯一の正式な情報源)を
   読み込み、本日の対象ジャンルを判定する。
 - 各ジャンルについて、キーワード「ふるさと納税」固定・--max-pages 3相当の条件で
   products/rakuten_item_search.py の関数をそのまま呼び出し、
@@ -49,13 +49,10 @@ def load_rotation_genres() -> dict:
 
 
 def resolve_today_genres(state: dict, genres: dict) -> list[dict]:
-    top5_list = genres["top5"]
     discovery_list = genres["discovery"]
-
-    top5_index = state["top5_index"] % len(top5_list)
     discovery_index = state["discovery_index"] % len(discovery_list)
 
-    today = [top5_list[top5_index]]
+    today = []
     for offset in (0, 1):
         idx = (discovery_index + offset) % len(discovery_list)
         today.append(discovery_list[idx])
@@ -102,7 +99,7 @@ def main() -> None:
     genres = load_rotation_genres()
     today_genres = resolve_today_genres(state, genres)
 
-    print(f"本日の対象ジャンル(top5_index={state['top5_index']}, discovery_index={state['discovery_index']}): "
+    print(f"本日の対象ジャンル(discovery_index={state['discovery_index']}): "
           f"{[g['name'] for g in today_genres]}")
 
     for i, genre in enumerate(today_genres):
