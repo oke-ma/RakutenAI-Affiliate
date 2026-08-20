@@ -73,7 +73,7 @@ def research_genre(genre: dict, app_id: str, access_key: str, affiliate_id: str 
         min_review_count=0,
         min_review_average=0.0,
         max_pages=MAX_PAGES,
-        sort="-reviewCount",
+        sort=ris.DEFAULT_SORT,
         output_suffix=genre["name"],
     )
 

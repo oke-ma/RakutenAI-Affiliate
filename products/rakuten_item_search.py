@@ -46,6 +46,14 @@ MAX_HITS_PER_PAGE = 30
 REQUEST_INTERVAL_SECONDS = 1.0
 GENRE_IDS_FIXED_KEYWORD = "ふるさと納税"
 
+# 検索結果の並び順のデフォルト値。唯一の正式な情報源はこの定数であり、
+# daily_research.py 等、このモジュールを呼び出す側は必ずこれを参照すること
+# (値を個別にハードコードすると、ここを変更した際に乖離する)。
+# standard(API標準順)を採用する理由: 過去に -reviewCount(レビュー件数の多い順)を
+# デフォルトにしていたことがあり、発見・驚き型(6-2)の候補選定がreviewCount順に
+# 寄る構造的バイアスの原因になっていた(CLAUDE.md「選定プロセスの構造的バイアス防止」参照)。
+DEFAULT_SORT = "standard"
+
 PRODUCTS_DIR = Path(__file__).resolve().parent
 
 # 楽天ふるさと納税 公式ジャンル一覧(https://event.rakuten.co.jp/furusato/genre/ で確認)
@@ -142,7 +150,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--sort",
         type=str,
-        default="standard",
+        default=DEFAULT_SORT,
         choices=["standard", "+itemPrice", "-itemPrice", "+reviewCount", "-reviewCount", "+reviewAverage", "-reviewAverage"],
         help="APIから取得する際の並び順(デフォルト: standard。"
         "-reviewCount(レビュー件数の多い順)は、廃止済みの定番・比較検討型(6-1)向けの初期値が"
