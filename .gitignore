@@ -2,3 +2,5 @@
 __pycache__/
 *.pyc
 daily_research.bat
+daily_research.lock
+daily_research.log
