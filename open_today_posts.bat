@@ -16,6 +16,19 @@ cd /d "C:\Users\makot\Desktop\RakutenAI-Affiliate"
 REM --- Get today's date as YYYY-MM-DD regardless of locale/date format ---
 for /f "usebackq delims=" %%D in (`powershell -NoProfile -Command "Get-Date -Format 'yyyy-MM-dd'"`) do set "TODAY=%%D"
 
+REM --- Pull the latest drafts from GitHub before searching, so posts pushed
+REM     by another machine/session (e.g. the 4am scheduled task) show up
+REM     here too. If the pull fails (no network, conflict, etc.), warn and
+REM     keep going with whatever is already on disk instead of giving up. ---
+echo Pulling latest changes from GitHub...
+git pull origin main
+if errorlevel 1 (
+    echo.
+    echo WARNING: git pull failed ^(network error, merge conflict, etc.^).
+    echo Continuing with the posts already on disk.
+    echo.
+)
+
 echo Looking for posts dated %TODAY% in posts\ ...
 
 set "FOUND=0"
