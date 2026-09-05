@@ -1,0 +1,36 @@
+name: Auto-merge claude branches to main (fail-safe)
+
+on:
+  push:
+    branches:
+      - 'claude/**'
+
+permissions:
+  contents: write
+
+jobs:
+  auto-merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout pushed branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Fast-forward main if possible, otherwise do nothing
+        run: |
+          set -e
+          BRANCH="${GITHUB_REF#refs/heads/}"
+          echo "Pushed branch: $BRANCH"
+
+          git fetch origin main
+
+          if git merge-base --is-ancestor origin/main HEAD; then
+            echo "origin/main is an ancestor of $BRANCH -> fast-forward is possible."
+            git push origin HEAD:main
+            echo "Fast-forwarded main to $BRANCH ($(git rev-parse HEAD))."
+          else
+            echo "origin/main is NOT an ancestor of $BRANCH -> fast-forward is NOT possible."
+            echo "This means main has diverged from $BRANCH (conflict risk)."
+            echo "No action taken to avoid breaking main. This branch needs manual review: $BRANCH"
+          fi
