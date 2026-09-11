@@ -1,3 +1,5 @@
 {
-  "discovery_index": 2
+  "discovery_index": 2,
+  "usedItemsFile": "products/used_items.json",
+  "usedItemsNote": "新しいジャンルの候補選定に着手する前に、usedItemsFileを確認し、既に採用済みの商品(itemCode一致)を候補から除外すること(CLAUDE.md「既出商品の重複除外ルール」参照)。posts/配下に新しいdraftを追加した後は、products/build_used_items.pyを再実行してusedItemsFileを最新化すること。"
 }

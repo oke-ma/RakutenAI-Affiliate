@@ -1,0 +1,2716 @@
+{
+  "generatedAt": "2026-09-11",
+  "generatedBy": "products/build_used_items.py (posts/配下の全frontmatterから機械的に再構築)",
+  "note": "このファイルはposts/配下の全ファイルのcandidates:/products:セクションから機械的に再構築される。手動編集するより、新しいdraftを追加した後にこのスクリプトを再実行して再構築することを推奨する。",
+  "itemCount": 156,
+  "items": {
+    "f016918-betsukai:10003150": {
+      "productPageUrl": "https://item.rakuten.co.jp/f016918-betsukai/be018-0054/",
+      "shopName": "北海道別海町",
+      "genres": [
+        "魚介類・水産加工品"
+      ],
+      "firstSeenAt": "2026-08-12",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-12_魚介類・水産加工品_スレッド.md",
+          "genre": "魚介類・水産加工品",
+          "createdAt": "2026-08-12",
+          "status": "draft",
+          "label": null
+        }
+      ]
+    },
+    "f222038-numazu:10000120": {
+      "productPageUrl": "https://item.rakuten.co.jp/f222038-numazu/yamayoshi01-p/",
+      "shopName": "静岡県沼津市",
+      "genres": [
+        "魚介類・水産加工品"
+      ],
+      "firstSeenAt": "2026-08-12",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-12_魚介類・水産加工品_スレッド.md",
+          "genre": "魚介類・水産加工品",
+          "createdAt": "2026-08-12",
+          "status": "draft",
+          "label": null
+        }
+      ]
+    },
+    "f016683-shiranuka:10000354": {
+      "productPageUrl": "https://item.rakuten.co.jp/f016683-shiranuka/8700-30009172/",
+      "shopName": "北海道白糠町",
+      "genres": [
+        "魚介類・水産加工品"
+      ],
+      "firstSeenAt": "2026-08-12",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-12_魚介類・水産加工品_スレッド.md",
+          "genre": "魚介類・水産加工品",
+          "createdAt": "2026-08-12",
+          "status": "draft",
+          "label": null
+        }
+      ]
+    },
+    "f012190-mombetsu:10000000": {
+      "productPageUrl": "https://item.rakuten.co.jp/f012190-mombetsu/10-68/",
+      "shopName": "北海道紋別市",
+      "genres": [
+        "魚介類・水産加工品"
+      ],
+      "firstSeenAt": "2026-08-12",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-12_魚介類・水産加工品_スレッド.md",
+          "genre": "魚介類・水産加工品",
+          "createdAt": "2026-08-12",
+          "status": "draft",
+          "label": null
+        }
+      ]
+    },
+    "f016683-shiranuka:10000214": {
+      "productPageUrl": "https://item.rakuten.co.jp/f016683-shiranuka/8700-30009066/",
+      "shopName": "北海道白糠町",
+      "genres": [
+        "魚介類・水産加工品"
+      ],
+      "firstSeenAt": "2026-08-12",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-12_魚介類・水産加工品_スレッド.md",
+          "genre": "魚介類・水産加工品",
+          "createdAt": "2026-08-12",
+          "status": "draft",
+          "label": null
+        }
+      ]
+    },
+    "f192015-kofu:10000240": {
+      "productPageUrl": "https://item.rakuten.co.jp/f192015-kofu/item039/",
+      "shopName": "山梨県甲府市",
+      "genres": [
+        "ジュエリー・アクセサリー"
+      ],
+      "firstSeenAt": "2026-08-13",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-13_ジュエリー・アクセサリー_単発.md",
+          "genre": "ジュエリー・アクセサリー",
+          "createdAt": "2026-08-13",
+          "status": "draft",
+          "label": null
+        }
+      ]
+    },
+    "f434281-takamori:10000542": {
+      "productPageUrl": "https://item.rakuten.co.jp/f434281-takamori/078-566/",
+      "shopName": "熊本県高森町",
+      "genres": [
+        "米・雑穀"
+      ],
+      "firstSeenAt": "2026-08-14",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-13_米・雑穀_スレッド.md",
+          "genre": "米・雑穀",
+          "createdAt": "2026-08-14",
+          "status": "draft",
+          "label": null
+        }
+      ]
+    },
+    "f173860-hodatsushimizu:10000450": {
+      "productPageUrl": "https://item.rakuten.co.jp/f173860-hodatsushimizu/38600101/",
+      "shopName": "石川県宝達志水町",
+      "genres": [
+        "米・雑穀"
+      ],
+      "firstSeenAt": "2026-08-14",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-13_米・雑穀_スレッド.md",
+          "genre": "米・雑穀",
+          "createdAt": "2026-08-14",
+          "status": "draft",
+          "label": null
+        }
+      ]
+    },
+    "f434418-mifune:10000461": {
+      "productPageUrl": "https://item.rakuten.co.jp/f434418-mifune/10000461/",
+      "shopName": "熊本県御船町",
+      "genres": [
+        "米・雑穀"
+      ],
+      "firstSeenAt": "2026-08-14",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-13_米・雑穀_スレッド.md",
+          "genre": "米・雑穀",
+          "createdAt": "2026-08-14",
+          "status": "draft",
+          "label": null
+        }
+      ]
+    },
+    "f406091-aka:10000539": {
+      "productPageUrl": "https://item.rakuten.co.jp/f406091-aka/3x2/",
+      "shopName": "福岡県赤村",
+      "genres": [
+        "米・雑穀"
+      ],
+      "firstSeenAt": "2026-08-14",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-13_米・雑穀_スレッド.md",
+          "genre": "米・雑穀",
+          "createdAt": "2026-08-14",
+          "status": "draft",
+          "label": null
+        }
+      ]
+    },
+    "f434281-takamori:10000628": {
+      "productPageUrl": "https://item.rakuten.co.jp/f434281-takamori/075-557/",
+      "shopName": "熊本県高森町",
+      "genres": [
+        "米・雑穀"
+      ],
+      "firstSeenAt": "2026-08-14",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-13_米・雑穀_スレッド.md",
+          "genre": "米・雑穀",
+          "createdAt": "2026-08-14",
+          "status": "draft",
+          "label": null
+        }
+      ]
+    },
+    "f032051-hanamaki:10000827": {
+      "productPageUrl": "https://item.rakuten.co.jp/f032051-hanamaki/14301-30020810/",
+      "shopName": "岩手県花巻市",
+      "genres": [
+        "精肉・肉加工品"
+      ],
+      "firstSeenAt": "2026-08-14",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-13_精肉・肉加工品_スレッド.md",
+          "genre": "精肉・肉加工品",
+          "createdAt": "2026-08-14",
+          "status": "draft",
+          "label": null
+        },
+        {
+          "file": "posts/2026-08-14_精肉・肉加工品_スレッド.md",
+          "genre": "精肉・肉加工品",
+          "createdAt": "2026-08-14",
+          "status": "draft",
+          "label": null
+        }
+      ]
+    },
+    "f253847-ryuo:10001383": {
+      "productPageUrl": "https://item.rakuten.co.jp/f253847-ryuo/rm001/",
+      "shopName": "滋賀県竜王町",
+      "genres": [
+        "精肉・肉加工品"
+      ],
+      "firstSeenAt": "2026-08-14",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-13_精肉・肉加工品_スレッド.md",
+          "genre": "精肉・肉加工品",
+          "createdAt": "2026-08-14",
+          "status": "draft",
+          "label": null
+        },
+        {
+          "file": "posts/2026-08-14_精肉・肉加工品_スレッド.md",
+          "genre": "精肉・肉加工品",
+          "createdAt": "2026-08-14",
+          "status": "draft",
+          "label": null
+        }
+      ]
+    },
+    "f452017-miyazaki:10002014": {
+      "productPageUrl": "https://item.rakuten.co.jp/f452017-miyazaki/m132-064/",
+      "shopName": "宮崎県宮崎市",
+      "genres": [
+        "精肉・肉加工品"
+      ],
+      "firstSeenAt": "2026-08-14",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-13_精肉・肉加工品_スレッド.md",
+          "genre": "精肉・肉加工品",
+          "createdAt": "2026-08-14",
+          "status": "draft",
+          "label": null
+        },
+        {
+          "file": "posts/2026-08-14_精肉・肉加工品_スレッド.md",
+          "genre": "精肉・肉加工品",
+          "createdAt": "2026-08-14",
+          "status": "draft",
+          "label": null
+        }
+      ]
+    },
+    "f016918-betsukai:10002938": {
+      "productPageUrl": "https://item.rakuten.co.jp/f016918-betsukai/be010-014a023/",
+      "shopName": "北海道別海町",
+      "genres": [
+        "精肉・肉加工品"
+      ],
+      "firstSeenAt": "2026-08-14",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-13_精肉・肉加工品_スレッド.md",
+          "genre": "精肉・肉加工品",
+          "createdAt": "2026-08-14",
+          "status": "draft",
+          "label": null
+        },
+        {
+          "file": "posts/2026-08-14_精肉・肉加工品_スレッド.md",
+          "genre": "精肉・肉加工品",
+          "createdAt": "2026-08-14",
+          "status": "draft",
+          "label": null
+        }
+      ]
+    },
+    "f272132-izumisano:10005033": {
+      "productPageUrl": "https://item.rakuten.co.jp/f272132-izumisano/020c214/",
+      "shopName": "大阪府泉佐野市",
+      "genres": [
+        "精肉・肉加工品"
+      ],
+      "firstSeenAt": "2026-08-14",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-13_精肉・肉加工品_スレッド.md",
+          "genre": "精肉・肉加工品",
+          "createdAt": "2026-08-14",
+          "status": "draft",
+          "label": null
+        },
+        {
+          "file": "posts/2026-08-14_精肉・肉加工品_スレッド.md",
+          "genre": "精肉・肉加工品",
+          "createdAt": "2026-08-14",
+          "status": "draft",
+          "label": null
+        }
+      ]
+    },
+    "f182095-echizen:10000179": {
+      "productPageUrl": "https://item.rakuten.co.jp/f182095-echizen/100000145/",
+      "shopName": "福井県越前市",
+      "genres": [
+        "TV・オーディオ・カメラ"
+      ],
+      "firstSeenAt": "2026-08-14",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-14_TV・オーディオ・カメラ_単発.md",
+          "genre": "TV・オーディオ・カメラ",
+          "createdAt": "2026-08-14",
+          "status": "draft",
+          "label": "候補1"
+        }
+      ]
+    },
+    "f434329-nishihara:10001755": {
+      "productPageUrl": "https://item.rakuten.co.jp/f434329-nishihara/091-1016/",
+      "shopName": "熊本県西原村",
+      "genres": [
+        "TV・オーディオ・カメラ"
+      ],
+      "firstSeenAt": "2026-08-14",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-14_TV・オーディオ・カメラ_単発.md",
+          "genre": "TV・オーディオ・カメラ",
+          "createdAt": "2026-08-14",
+          "status": "draft",
+          "label": "候補2"
+        }
+      ]
+    },
+    "f404012-kotake:10000550": {
+      "productPageUrl": "https://item.rakuten.co.jp/f404012-kotake/10000550/",
+      "shopName": "福岡県小竹町",
+      "genres": [
+        "フルーツ・果物"
+      ],
+      "firstSeenAt": "2026-08-14",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-14_フルーツ・果物_スレッド.md",
+          "genre": "フルーツ・果物",
+          "createdAt": "2026-08-14",
+          "status": "draft",
+          "label": null
+        }
+      ]
+    },
+    "f302082-kinokawa:10000688": {
+      "productPageUrl": "https://item.rakuten.co.jp/f302082-kinokawa/10000688/",
+      "shopName": "和歌山県紀の川市",
+      "genres": [
+        "フルーツ・果物"
+      ],
+      "firstSeenAt": "2026-08-14",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-14_フルーツ・果物_スレッド.md",
+          "genre": "フルーツ・果物",
+          "createdAt": "2026-08-14",
+          "status": "draft",
+          "label": null
+        }
+      ]
+    },
+    "f202118-nakano:10000622": {
+      "productPageUrl": "https://item.rakuten.co.jp/f202118-nakano/1422800/",
+      "shopName": "長野県中野市",
+      "genres": [
+        "フルーツ・果物"
+      ],
+      "firstSeenAt": "2026-08-14",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-14_フルーツ・果物_スレッド.md",
+          "genre": "フルーツ・果物",
+          "createdAt": "2026-08-14",
+          "status": "draft",
+          "label": null
+        }
+      ]
+    },
+    "f404021-kurate:10000265": {
+      "productPageUrl": "https://item.rakuten.co.jp/f404021-kurate/10000265/",
+      "shopName": "福岡県鞍手町",
+      "genres": [
+        "フルーツ・果物"
+      ],
+      "firstSeenAt": "2026-08-14",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-14_フルーツ・果物_スレッド.md",
+          "genre": "フルーツ・果物",
+          "createdAt": "2026-08-14",
+          "status": "draft",
+          "label": null
+        }
+      ]
+    },
+    "f205907-iizuna:10001210": {
+      "productPageUrl": "https://item.rakuten.co.jp/f205907-iizuna/1211/",
+      "shopName": "長野県飯綱町",
+      "genres": [
+        "フルーツ・果物"
+      ],
+      "firstSeenAt": "2026-08-14",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-14_フルーツ・果物_スレッド.md",
+          "genre": "フルーツ・果物",
+          "createdAt": "2026-08-14",
+          "status": "draft",
+          "label": null
+        }
+      ]
+    },
+    "f014656-kembuchi:10000031": {
+      "productPageUrl": "https://item.rakuten.co.jp/f014656-kembuchi/x-1/",
+      "shopName": "北海道剣淵町",
+      "genres": [
+        "体験チケット"
+      ],
+      "firstSeenAt": "2026-08-14",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-14_体験チケット_単発.md",
+          "genre": "体験チケット",
+          "createdAt": "2026-08-14",
+          "status": "rejected",
+          "label": null
+        }
+      ]
+    },
+    "f073440-tenei:10000102": {
+      "productPageUrl": "https://item.rakuten.co.jp/f073440-tenei/f21t-091/",
+      "shopName": "福島県天栄村",
+      "genres": [
+        "体験チケット"
+      ],
+      "firstSeenAt": "2026-08-14",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-14_体験チケット_単発_2.md",
+          "genre": "体験チケット",
+          "createdAt": "2026-08-14",
+          "status": "draft",
+          "label": null
+        }
+      ]
+    },
+    "f272183-daito:10000588": {
+      "productPageUrl": "https://item.rakuten.co.jp/f272183-daito/ak80/",
+      "shopName": "大阪府大東市",
+      "genres": [
+        "家電"
+      ],
+      "firstSeenAt": "2026-08-14",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-14_家電_単発.md",
+          "genre": "家電",
+          "createdAt": "2026-08-14",
+          "status": "draft",
+          "label": null
+        }
+      ]
+    },
+    "f131130-shibuya:10000324": {
+      "productPageUrl": "https://item.rakuten.co.jp/f131130-shibuya/011005-2/",
+      "shopName": "東京都渋谷区",
+      "genres": [
+        "施設利用・旅行・交通関連"
+      ],
+      "firstSeenAt": "2026-08-14",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-14_施設利用・旅行・交通関連_単発.md",
+          "genre": "施設利用・旅行・交通関連",
+          "createdAt": "2026-08-14",
+          "status": "draft",
+          "label": "候補1"
+        }
+      ]
+    },
+    "f212059-seki:10000017": {
+      "productPageUrl": "https://item.rakuten.co.jp/f212059-seki/10000017/",
+      "shopName": "岐阜県関市",
+      "genres": [
+        "施設利用・旅行・交通関連"
+      ],
+      "firstSeenAt": "2026-08-14",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-14_施設利用・旅行・交通関連_単発.md",
+          "genre": "施設利用・旅行・交通関連",
+          "createdAt": "2026-08-14",
+          "status": "draft",
+          "label": "候補2"
+        }
+      ]
+    },
+    "f052035-yokote:10001866": {
+      "productPageUrl": "https://item.rakuten.co.jp/f052035-yokote/04_wwk-280101/",
+      "shopName": "秋田県横手市",
+      "genres": [
+        "楽器・音響機器"
+      ],
+      "firstSeenAt": "2026-08-14",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-14_楽器・音響機器_単発.md",
+          "genre": "楽器・音響機器",
+          "createdAt": "2026-08-14",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f212148-kani:10000479": {
+      "productPageUrl": "https://item.rakuten.co.jp/f212148-kani/66017/",
+      "shopName": "岐阜県可児市",
+      "genres": [
+        "楽器・音響機器"
+      ],
+      "firstSeenAt": "2026-08-14",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-14_楽器・音響機器_単発.md",
+          "genre": "楽器・音響機器",
+          "createdAt": "2026-08-14",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f434230-minamioguni:10000150": {
+      "productPageUrl": "https://item.rakuten.co.jp/f434230-minamioguni/10000150/",
+      "shopName": "熊本県南小国町",
+      "genres": [
+        "精肉・肉加工品"
+      ],
+      "firstSeenAt": "2026-08-18",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-18_精肉・肉加工品_単発.md",
+          "genre": "精肉・肉加工品",
+          "createdAt": "2026-08-18",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f012041-asahikawashi:10000325": {
+      "productPageUrl": "https://item.rakuten.co.jp/f012041-asahikawashi/ap01-r/",
+      "shopName": "北海道旭川市",
+      "genres": [
+        "精肉・肉加工品"
+      ],
+      "firstSeenAt": "2026-08-18",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-18_精肉・肉加工品_単発.md",
+          "genre": "精肉・肉加工品",
+          "createdAt": "2026-08-18",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f464520-yusui:10000145": {
+      "productPageUrl": "https://item.rakuten.co.jp/f464520-yusui/y002/",
+      "shopName": "鹿児島県湧水町",
+      "genres": [
+        "精肉・肉加工品"
+      ],
+      "firstSeenAt": "2026-08-18",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-18_精肉・肉加工品_単発.md",
+          "genre": "精肉・肉加工品",
+          "createdAt": "2026-08-18",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f352012-shimonoseki:10000846": {
+      "productPageUrl": "https://item.rakuten.co.jp/f352012-shimonoseki/bv002/",
+      "shopName": "山口県下関市",
+      "genres": [
+        "魚介類・水産加工品"
+      ],
+      "firstSeenAt": "2026-08-18",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-18_魚介類・水産加工品_単発.md",
+          "genre": "魚介類・水産加工品",
+          "createdAt": "2026-08-18",
+          "status": "draft",
+          "label": "候補D"
+        }
+      ]
+    },
+    "f016683-shiranuka:10000114": {
+      "productPageUrl": "https://item.rakuten.co.jp/f016683-shiranuka/8700-30007962/",
+      "shopName": "北海道白糠町",
+      "genres": [
+        "魚介類・水産加工品"
+      ],
+      "firstSeenAt": "2026-08-18",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-18_魚介類・水産加工品_単発.md",
+          "genre": "魚介類・水産加工品",
+          "createdAt": "2026-08-18",
+          "status": "draft",
+          "label": "候補E"
+        }
+      ]
+    },
+    "f016098-erimo:10000635": {
+      "productPageUrl": "https://item.rakuten.co.jp/f016098-erimo/er002-056/",
+      "shopName": "北海道えりも町",
+      "genres": [
+        "魚介類・水産加工品"
+      ],
+      "firstSeenAt": "2026-08-18",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-18_魚介類・水産加工品_単発.md",
+          "genre": "魚介類・水産加工品",
+          "createdAt": "2026-08-18",
+          "status": "draft",
+          "label": "候補F"
+        }
+      ]
+    },
+    "f222135-kakegawa:10000010": {
+      "productPageUrl": "https://item.rakuten.co.jp/f222135-kakegawa/34832/",
+      "shopName": "静岡県掛川市",
+      "genres": [
+        "フルーツ・果物"
+      ],
+      "firstSeenAt": "2026-08-19",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-19_フルーツ・果物_単発.md",
+          "genre": "フルーツ・果物",
+          "createdAt": "2026-08-19",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f232092-hekinan:10000120": {
+      "productPageUrl": "https://item.rakuten.co.jp/f232092-hekinan/a-114/",
+      "shopName": "愛知県碧南市",
+      "genres": [
+        "フルーツ・果物"
+      ],
+      "firstSeenAt": "2026-08-19",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-19_フルーツ・果物_単発.md",
+          "genre": "フルーツ・果物",
+          "createdAt": "2026-08-19",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f385069-ainan:10000452": {
+      "productPageUrl": "https://item.rakuten.co.jp/f385069-ainan/5358533/",
+      "shopName": "愛媛県愛南町",
+      "genres": [
+        "フルーツ・果物"
+      ],
+      "firstSeenAt": "2026-08-19",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-19_フルーツ・果物_単発.md",
+          "genre": "フルーツ・果物",
+          "createdAt": "2026-08-19",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f302015-wakayama:10000658": {
+      "productPageUrl": "https://item.rakuten.co.jp/f302015-wakayama/cq27-r/",
+      "shopName": "和歌山県和歌山市",
+      "genres": [
+        "米・雑穀"
+      ],
+      "firstSeenAt": "2026-08-19",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-19_米・雑穀_単発.md",
+          "genre": "米・雑穀",
+          "createdAt": "2026-08-19",
+          "status": "draft",
+          "label": "候補"
+        }
+      ]
+    },
+    "f062031-tsuruoka:10001026": {
+      "productPageUrl": "https://item.rakuten.co.jp/f062031-tsuruoka/a01-648/",
+      "shopName": "山形県鶴岡市",
+      "genres": [
+        "野菜・きのこ"
+      ],
+      "firstSeenAt": "2026-08-20",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-20_野菜・きのこ_単発.md",
+          "genre": "野菜・きのこ",
+          "createdAt": "2026-08-20",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f152269-minamiuonuma:10001739": {
+      "productPageUrl": "https://item.rakuten.co.jp/f152269-minamiuonuma/ac32-r/",
+      "shopName": "新潟県南魚沼市",
+      "genres": [
+        "野菜・きのこ"
+      ],
+      "firstSeenAt": "2026-08-20",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-20_野菜・きのこ_単発.md",
+          "genre": "野菜・きのこ",
+          "createdAt": "2026-08-20",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f014591-biei:10000125": {
+      "productPageUrl": "https://item.rakuten.co.jp/f014591-biei/015-44/",
+      "shopName": "北海道美瑛町",
+      "genres": [
+        "野菜・きのこ"
+      ],
+      "firstSeenAt": "2026-08-20",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-20_野菜・きのこ_単発.md",
+          "genre": "野菜・きのこ",
+          "createdAt": "2026-08-20",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f242047-matsusaka:10000307": {
+      "productPageUrl": "https://item.rakuten.co.jp/f242047-matsusaka/1-249/",
+      "shopName": "三重県松阪市",
+      "genres": [
+        "麺類"
+      ],
+      "firstSeenAt": "2026-08-20",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-20_麺類_単発.md",
+          "genre": "麺類",
+          "createdAt": "2026-08-20",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f052159-semboku:10001368": {
+      "productPageUrl": "https://item.rakuten.co.jp/f052159-semboku/56600537/",
+      "shopName": "秋田県仙北市",
+      "genres": [
+        "麺類"
+      ],
+      "firstSeenAt": "2026-08-20",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-20_麺類_単発.md",
+          "genre": "麺類",
+          "createdAt": "2026-08-20",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f272043-ikeda:10000093": {
+      "productPageUrl": "https://item.rakuten.co.jp/f272043-ikeda/10000092/",
+      "shopName": "大阪府池田市",
+      "genres": [
+        "麺類"
+      ],
+      "firstSeenAt": "2026-08-20",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-20_麺類_単発.md",
+          "genre": "麺類",
+          "createdAt": "2026-08-20",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f231002-nagoya:10002027": {
+      "productPageUrl": "https://item.rakuten.co.jp/f231002-nagoya/lj007/",
+      "shopName": "愛知県名古屋市",
+      "genres": [
+        "スイーツ・お菓子"
+      ],
+      "firstSeenAt": "2026-08-20",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-21_スイーツ・お菓子_単発.md",
+          "genre": "スイーツ・お菓子",
+          "createdAt": "2026-08-20",
+          "status": "draft",
+          "label": "候補A"
+        },
+        {
+          "file": "posts/2026-09-10_スイーツ・お菓子_単発.md",
+          "genre": "スイーツ・お菓子",
+          "createdAt": "2026-09-10",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f412082-ogi:10000015": {
+      "productPageUrl": "https://item.rakuten.co.jp/f412082-ogi/10000015/",
+      "shopName": "佐賀県小城市",
+      "genres": [
+        "スイーツ・お菓子"
+      ],
+      "firstSeenAt": "2026-08-20",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-21_スイーツ・お菓子_単発.md",
+          "genre": "スイーツ・お菓子",
+          "createdAt": "2026-08-20",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f363685-naka:10000299": {
+      "productPageUrl": "https://item.rakuten.co.jp/f363685-naka/aa-1/",
+      "shopName": "徳島県那賀町",
+      "genres": [
+        "スイーツ・お菓子"
+      ],
+      "firstSeenAt": "2026-08-20",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-21_スイーツ・お菓子_単発.md",
+          "genre": "スイーツ・お菓子",
+          "createdAt": "2026-08-20",
+          "status": "draft",
+          "label": "候補C"
+        },
+        {
+          "file": "posts/2026-09-10_スイーツ・お菓子_単発.md",
+          "genre": "スイーツ・お菓子",
+          "createdAt": "2026-09-10",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f172031-komatsu:10001218": {
+      "productPageUrl": "https://item.rakuten.co.jp/f172031-komatsu/360001/",
+      "shopName": "石川県小松市",
+      "genres": [
+        "日本酒・焼酎"
+      ],
+      "firstSeenAt": "2026-08-20",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-21_日本酒・焼酎_単発.md",
+          "genre": "日本酒・焼酎",
+          "createdAt": "2026-08-20",
+          "status": "draft",
+          "label": "候補A"
+        },
+        {
+          "file": "posts/2026-09-11_日本酒・焼酎_単発.md",
+          "genre": "日本酒・焼酎",
+          "createdAt": "2026-09-11",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f465305-tokunoshima:10000046": {
+      "productPageUrl": "https://item.rakuten.co.jp/f465305-tokunoshima/145/",
+      "shopName": "鹿児島県徳之島町",
+      "genres": [
+        "日本酒・焼酎"
+      ],
+      "firstSeenAt": "2026-08-20",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-21_日本酒・焼酎_単発.md",
+          "genre": "日本酒・焼酎",
+          "createdAt": "2026-08-20",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f016683-shiranuka:10000123": {
+      "productPageUrl": "https://item.rakuten.co.jp/f016683-shiranuka/8700-30006972/",
+      "shopName": "北海道白糠町",
+      "genres": [
+        "日本酒・焼酎"
+      ],
+      "firstSeenAt": "2026-08-20",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-21_日本酒・焼酎_単発.md",
+          "genre": "日本酒・焼酎",
+          "createdAt": "2026-08-20",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f402044-nogatashi:10000614": {
+      "productPageUrl": "https://item.rakuten.co.jp/f402044-nogatashi/090-2702/",
+      "shopName": "福岡県直方市",
+      "genres": [
+        "ビール・洋酒"
+      ],
+      "firstSeenAt": "2026-08-22",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-22_ビール・洋酒_単発.md",
+          "genre": "ビール・洋酒",
+          "createdAt": "2026-08-22",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f442143-kunisaki:10000224": {
+      "productPageUrl": "https://item.rakuten.co.jp/f442143-kunisaki/10000-a29039/",
+      "shopName": "大分県国東市",
+      "genres": [
+        "ビール・洋酒"
+      ],
+      "firstSeenAt": "2026-08-22",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-22_ビール・洋酒_単発.md",
+          "genre": "ビール・洋酒",
+          "createdAt": "2026-08-22",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f462209-minamisatsuma:10005910": {
+      "productPageUrl": "https://item.rakuten.co.jp/f462209-minamisatsuma/15-h05/",
+      "shopName": "鹿児島県南さつま市",
+      "genres": [
+        "ビール・洋酒"
+      ],
+      "firstSeenAt": "2026-08-22",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-22_ビール・洋酒_単発.md",
+          "genre": "ビール・洋酒",
+          "createdAt": "2026-08-22",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f392022-muroto:10000839": {
+      "productPageUrl": "https://item.rakuten.co.jp/f392022-muroto/10000839/",
+      "shopName": "高知県室戸市",
+      "genres": [
+        "水・ソフトドリンク"
+      ],
+      "firstSeenAt": "2026-08-22",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-22_水・ソフトドリンク_単発.md",
+          "genre": "水・ソフトドリンク",
+          "createdAt": "2026-08-22",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f462144-tarumizu:10002361": {
+      "productPageUrl": "https://item.rakuten.co.jp/f462144-tarumizu/a1-0828/",
+      "shopName": "鹿児島県垂水市",
+      "genres": [
+        "水・ソフトドリンク"
+      ],
+      "firstSeenAt": "2026-08-22",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-22_水・ソフトドリンク_単発.md",
+          "genre": "水・ソフトドリンク",
+          "createdAt": "2026-08-22",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f342041-mihara:10000135": {
+      "productPageUrl": "https://item.rakuten.co.jp/f342041-mihara/53110035/",
+      "shopName": "広島県三原市",
+      "genres": [
+        "水・ソフトドリンク"
+      ],
+      "firstSeenAt": "2026-08-22",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-22_水・ソフトドリンク_単発.md",
+          "genre": "水・ソフトドリンク",
+          "createdAt": "2026-08-22",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f382027-imabari:10001333": {
+      "productPageUrl": "https://item.rakuten.co.jp/f382027-imabari/i001890/",
+      "shopName": "愛媛県今治市",
+      "genres": [
+        "インテリア・寝具・収納"
+      ],
+      "firstSeenAt": "2026-08-25",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-25_インテリア・寝具・収納_単発.md",
+          "genre": "インテリア・寝具・収納",
+          "createdAt": "2026-08-25",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f252131-higashiomi:10001097": {
+      "productPageUrl": "https://item.rakuten.co.jp/f252131-higashiomi/10001097/",
+      "shopName": "滋賀県東近江市",
+      "genres": [
+        "インテリア・寝具・収納"
+      ],
+      "firstSeenAt": "2026-08-25",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-25_インテリア・寝具・収納_単発.md",
+          "genre": "インテリア・寝具・収納",
+          "createdAt": "2026-08-25",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f012084-kitami:10001417": {
+      "productPageUrl": "https://item.rakuten.co.jp/f012084-kitami/10001383/",
+      "shopName": "北海道北見市",
+      "genres": [
+        "インテリア・寝具・収納"
+      ],
+      "firstSeenAt": "2026-08-25",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-25_インテリア・寝具・収納_単発.md",
+          "genre": "インテリア・寝具・収納",
+          "createdAt": "2026-08-25",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f271403-sakai:10001369": {
+      "productPageUrl": "https://item.rakuten.co.jp/f271403-sakai/52821071/",
+      "shopName": "大阪府堺市",
+      "genres": [
+        "キッチン用品・食器・調理器具"
+      ],
+      "firstSeenAt": "2026-08-25",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-25_キッチン用品・食器・調理器具_単発.md",
+          "genre": "キッチン用品・食器・調理器具",
+          "createdAt": "2026-08-25",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f212059-seki:10001477": {
+      "productPageUrl": "https://item.rakuten.co.jp/f212059-seki/10001477/",
+      "shopName": "岐阜県関市",
+      "genres": [
+        "キッチン用品・食器・調理器具"
+      ],
+      "firstSeenAt": "2026-08-25",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-25_キッチン用品・食器・調理器具_単発.md",
+          "genre": "キッチン用品・食器・調理器具",
+          "createdAt": "2026-08-25",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f152137-tsubame:10001036": {
+      "productPageUrl": "https://item.rakuten.co.jp/f152137-tsubame/10001036/",
+      "shopName": "新潟県燕市",
+      "genres": [
+        "キッチン用品・食器・調理器具"
+      ],
+      "firstSeenAt": "2026-08-25",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-25_キッチン用品・食器・調理器具_単発.md",
+          "genre": "キッチン用品・食器・調理器具",
+          "createdAt": "2026-08-25",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f212059-seki:10003517": {
+      "productPageUrl": "https://item.rakuten.co.jp/f212059-seki/10003517/",
+      "shopName": "岐阜県関市",
+      "genres": [
+        "スポーツ・アウトドア"
+      ],
+      "firstSeenAt": "2026-08-26",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-26_スポーツ・アウトドア_単発.md",
+          "genre": "スポーツ・アウトドア",
+          "createdAt": "2026-08-26",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f452068-hyuga:10000230": {
+      "productPageUrl": "https://item.rakuten.co.jp/f452068-hyuga/item0234/",
+      "shopName": "宮崎県日向市",
+      "genres": [
+        "スポーツ・アウトドア"
+      ],
+      "firstSeenAt": "2026-08-26",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-26_スポーツ・アウトドア_単発.md",
+          "genre": "スポーツ・アウトドア",
+          "createdAt": "2026-08-26",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f282154-miki:10001407": {
+      "productPageUrl": "https://item.rakuten.co.jp/f282154-miki/e-41/",
+      "shopName": "兵庫県三木市",
+      "genres": [
+        "スポーツ・アウトドア"
+      ],
+      "firstSeenAt": "2026-08-26",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-26_スポーツ・アウトドア_単発.md",
+          "genre": "スポーツ・アウトドア",
+          "createdAt": "2026-08-26",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f212059-seki:10000879": {
+      "productPageUrl": "https://item.rakuten.co.jp/f212059-seki/10000879/",
+      "shopName": "岐阜県関市",
+      "genres": [
+        "日用品雑貨・文房具・手芸"
+      ],
+      "firstSeenAt": "2026-08-26",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-26_日用品雑貨・文房具・手芸_単発.md",
+          "genre": "日用品雑貨・文房具・手芸",
+          "createdAt": "2026-08-26",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f222101-fuji:10001229": {
+      "productPageUrl": "https://item.rakuten.co.jp/f222101-fuji/1926/",
+      "shopName": "静岡県富士市",
+      "genres": [
+        "日用品雑貨・文房具・手芸"
+      ],
+      "firstSeenAt": "2026-08-26",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-26_日用品雑貨・文房具・手芸_単発.md",
+          "genre": "日用品雑貨・文房具・手芸",
+          "createdAt": "2026-08-26",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f082040-koga:10000672": {
+      "productPageUrl": "https://item.rakuten.co.jp/f082040-koga/5701-30025351/",
+      "shopName": "茨城県古河市",
+      "genres": [
+        "ジュエリー・アクセサリー"
+      ],
+      "firstSeenAt": "2026-08-27",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-27_ジュエリー・アクセサリー_単発.md",
+          "genre": "ジュエリー・アクセサリー",
+          "createdAt": "2026-08-27",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f192082-minamiarupusu:10000656": {
+      "productPageUrl": "https://item.rakuten.co.jp/f192082-minamiarupusu/127-1178-163/",
+      "shopName": "山梨県南アルプス市",
+      "genres": [
+        "ジュエリー・アクセサリー"
+      ],
+      "firstSeenAt": "2026-08-27",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-27_ジュエリー・アクセサリー_単発.md",
+          "genre": "ジュエリー・アクセサリー",
+          "createdAt": "2026-08-27",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f192082-minamiarupusu:10000337": {
+      "productPageUrl": "https://item.rakuten.co.jp/f192082-minamiarupusu/127-1178-10/",
+      "shopName": "山梨県南アルプス市",
+      "genres": [
+        "ジュエリー・アクセサリー"
+      ],
+      "firstSeenAt": "2026-08-27",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-27_ジュエリー・アクセサリー_単発.md",
+          "genre": "ジュエリー・アクセサリー",
+          "createdAt": "2026-08-27",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f152021-nagaoka:10001508": {
+      "productPageUrl": "https://item.rakuten.co.jp/f152021-nagaoka/m5-03/",
+      "shopName": "新潟県長岡市",
+      "genres": [
+        "家電"
+      ],
+      "firstSeenAt": "2026-08-27",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-27_家電_単発.md",
+          "genre": "家電",
+          "createdAt": "2026-08-27",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f205621-kijimadaira:10000068": {
+      "productPageUrl": "https://item.rakuten.co.jp/f205621-kijimadaira/10000057/",
+      "shopName": "長野県木島平村",
+      "genres": [
+        "家電"
+      ],
+      "firstSeenAt": "2026-08-27",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-27_家電_単発.md",
+          "genre": "家電",
+          "createdAt": "2026-08-27",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f401005-kitakyushu:10002190": {
+      "productPageUrl": "https://item.rakuten.co.jp/f401005-kitakyushu/250-3747/",
+      "shopName": "福岡県北九州市",
+      "genres": [
+        "家電"
+      ],
+      "firstSeenAt": "2026-08-27",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-27_家電_単発.md",
+          "genre": "家電",
+          "createdAt": "2026-08-27",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f302058-gobo:10001268": {
+      "productPageUrl": "https://item.rakuten.co.jp/f302058-gobo/10001268/",
+      "shopName": "和歌山県御坊市",
+      "genres": [
+        "おもちゃ"
+      ],
+      "firstSeenAt": "2026-08-29",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-29_おもちゃ_単発.md",
+          "genre": "おもちゃ",
+          "createdAt": "2026-08-29",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f261009-kyoto:10007862": {
+      "productPageUrl": "https://item.rakuten.co.jp/f261009-kyoto/ka014/",
+      "shopName": "京都府京都市",
+      "genres": [
+        "おもちゃ"
+      ],
+      "firstSeenAt": "2026-08-29",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-29_おもちゃ_単発.md",
+          "genre": "おもちゃ",
+          "createdAt": "2026-08-29",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f082015-mito:10001592": {
+      "productPageUrl": "https://item.rakuten.co.jp/f082015-mito/lm-2/",
+      "shopName": "茨城県水戸市",
+      "genres": [
+        "おもちゃ"
+      ],
+      "firstSeenAt": "2026-08-29",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-29_おもちゃ_単発.md",
+          "genre": "おもちゃ",
+          "createdAt": "2026-08-29",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f402231-koga:10002561": {
+      "productPageUrl": "https://item.rakuten.co.jp/f402231-koga/007-0076/",
+      "shopName": "福岡県古賀市",
+      "genres": [
+        "キッズ・ベビー・マタニティ"
+      ],
+      "firstSeenAt": "2026-08-29",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-29_キッズ・ベビー・マタニティ_単発.md",
+          "genre": "キッズ・ベビー・マタニティ",
+          "createdAt": "2026-08-29",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f402257-ukiha:10003296": {
+      "productPageUrl": "https://item.rakuten.co.jp/f402257-ukiha/u051-1cp-byqb/",
+      "shopName": "福岡県うきは市",
+      "genres": [
+        "キッズ・ベビー・マタニティ"
+      ],
+      "firstSeenAt": "2026-08-29",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-29_キッズ・ベビー・マタニティ_単発.md",
+          "genre": "キッズ・ベビー・マタニティ",
+          "createdAt": "2026-08-29",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f212032-takayama:10002096": {
+      "productPageUrl": "https://item.rakuten.co.jp/f212032-takayama/tr3272/",
+      "shopName": "岐阜県高山市",
+      "genres": [
+        "キッズ・ベビー・マタニティ"
+      ],
+      "firstSeenAt": "2026-08-29",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-29_キッズ・ベビー・マタニティ_単発.md",
+          "genre": "キッズ・ベビー・マタニティ",
+          "createdAt": "2026-08-29",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f462063-akune:10000849": {
+      "productPageUrl": "https://item.rakuten.co.jp/f462063-akune/akune-52-1/",
+      "shopName": "鹿児島県阿久根市",
+      "genres": [
+        "ダイエット・健康"
+      ],
+      "firstSeenAt": "2026-08-30",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-30_ダイエット・健康_単発.md",
+          "genre": "ダイエット・健康",
+          "createdAt": "2026-08-30",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f131211-adachi:10000428": {
+      "productPageUrl": "https://item.rakuten.co.jp/f131211-adachi/26491106/",
+      "shopName": "東京都足立区",
+      "genres": [
+        "ダイエット・健康"
+      ],
+      "firstSeenAt": "2026-08-30",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-30_ダイエット・健康_単発.md",
+          "genre": "ダイエット・健康",
+          "createdAt": "2026-08-30",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f122301-yachimata:10000195": {
+      "productPageUrl": "https://item.rakuten.co.jp/f122301-yachimata/21000296/",
+      "shopName": "千葉県八街市",
+      "genres": [
+        "ダイエット・健康"
+      ],
+      "firstSeenAt": "2026-08-30",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-30_ダイエット・健康_単発.md",
+          "genre": "ダイエット・健康",
+          "createdAt": "2026-08-30",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f222208-susono:10000604": {
+      "productPageUrl": "https://item.rakuten.co.jp/f222208-susono/58120557/",
+      "shopName": "静岡県裾野市",
+      "genres": [
+        "美容・コスメ・香水"
+      ],
+      "firstSeenAt": "2026-08-30",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-30_美容・コスメ・香水_単発.md",
+          "genre": "美容・コスメ・香水",
+          "createdAt": "2026-08-30",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f212059-seki:10003532": {
+      "productPageUrl": "https://item.rakuten.co.jp/f212059-seki/10003532/",
+      "shopName": "岐阜県関市",
+      "genres": [
+        "美容・コスメ・香水"
+      ],
+      "firstSeenAt": "2026-08-30",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-30_美容・コスメ・香水_単発.md",
+          "genre": "美容・コスメ・香水",
+          "createdAt": "2026-08-30",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f462101-ibusuki:10000825": {
+      "productPageUrl": "https://item.rakuten.co.jp/f462101-ibusuki/d-015/",
+      "shopName": "鹿児島県指宿市",
+      "genres": [
+        "美容・コスメ・香水"
+      ],
+      "firstSeenAt": "2026-08-30",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-30_美容・コスメ・香水_単発.md",
+          "genre": "美容・コスメ・香水",
+          "createdAt": "2026-08-30",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f033031-iwate:10000136": {
+      "productPageUrl": "https://item.rakuten.co.jp/f033031-iwate/22204-30053548/",
+      "shopName": "岩手県岩手町",
+      "genres": [
+        "ペット・ペットグッズ"
+      ],
+      "firstSeenAt": "2026-08-31",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-31_ペット・ペットグッズ_単発.md",
+          "genre": "ペット・ペットグッズ",
+          "createdAt": "2026-08-31",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f372072-higashikagawa:10001284": {
+      "productPageUrl": "https://item.rakuten.co.jp/f372072-higashikagawa/46312262/",
+      "shopName": "香川県東かがわ市",
+      "genres": [
+        "ペット・ペットグッズ"
+      ],
+      "firstSeenAt": "2026-08-31",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-31_ペット・ペットグッズ_単発.md",
+          "genre": "ペット・ペットグッズ",
+          "createdAt": "2026-08-31",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f015784-shiraoi:10001342": {
+      "productPageUrl": "https://item.rakuten.co.jp/f015784-shiraoi/bo001/",
+      "shopName": "北海道白老町",
+      "genres": [
+        "ペット・ペットグッズ"
+      ],
+      "firstSeenAt": "2026-08-31",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-31_ペット・ペットグッズ_単発.md",
+          "genre": "ペット・ペットグッズ",
+          "createdAt": "2026-08-31",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f142051-fujisawa:10000594": {
+      "productPageUrl": "https://item.rakuten.co.jp/f142051-fujisawa/52310661/",
+      "shopName": "神奈川県藤沢市",
+      "genres": [
+        "医薬品・コンタクト・介護"
+      ],
+      "firstSeenAt": "2026-08-31",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-31_医薬品・コンタクト・介護_単発.md",
+          "genre": "医薬品・コンタクト・介護",
+          "createdAt": "2026-08-31",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f142018-yokosuka:10001637": {
+      "productPageUrl": "https://item.rakuten.co.jp/f142018-yokosuka/59861168/",
+      "shopName": "神奈川県横須賀市",
+      "genres": [
+        "医薬品・コンタクト・介護"
+      ],
+      "firstSeenAt": "2026-08-31",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-31_医薬品・コンタクト・介護_単発.md",
+          "genre": "医薬品・コンタクト・介護",
+          "createdAt": "2026-08-31",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f212059-seki:10000256": {
+      "productPageUrl": "https://item.rakuten.co.jp/f212059-seki/10000256/",
+      "shopName": "岐阜県関市",
+      "genres": [
+        "医薬品・コンタクト・介護"
+      ],
+      "firstSeenAt": "2026-08-31",
+      "occurrences": [
+        {
+          "file": "posts/2026-08-31_医薬品・コンタクト・介護_単発.md",
+          "genre": "医薬品・コンタクト・介護",
+          "createdAt": "2026-08-31",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f261009-kyoto:10002057": {
+      "productPageUrl": "https://item.rakuten.co.jp/f261009-kyoto/a-ct020/",
+      "shopName": "京都府京都市",
+      "genres": [
+        "レディースファッション"
+      ],
+      "firstSeenAt": "2026-09-01",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-01_レディースファッション_単発.md",
+          "genre": "レディースファッション",
+          "createdAt": "2026-09-01",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f261009-kyoto:10001178": {
+      "productPageUrl": "https://item.rakuten.co.jp/f261009-kyoto/b1078-r/",
+      "shopName": "京都府京都市",
+      "genres": [
+        "レディースファッション"
+      ],
+      "firstSeenAt": "2026-09-01",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-01_レディースファッション_単発.md",
+          "genre": "レディースファッション",
+          "createdAt": "2026-09-01",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f261009-kyoto:10006424": {
+      "productPageUrl": "https://item.rakuten.co.jp/f261009-kyoto/b-az33/",
+      "shopName": "京都府京都市",
+      "genres": [
+        "レディースファッション"
+      ],
+      "firstSeenAt": "2026-09-01",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-01_レディースファッション_単発.md",
+          "genre": "レディースファッション",
+          "createdAt": "2026-09-01",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f142069-odawara:10000136": {
+      "productPageUrl": "https://item.rakuten.co.jp/f142069-odawara/6743-30001635/",
+      "shopName": "神奈川県小田原市",
+      "genres": [
+        "花・ガーデン・DIY"
+      ],
+      "firstSeenAt": "2026-09-01",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-01_花・ガーデン・DIY_単発.md",
+          "genre": "花・ガーデン・DIY",
+          "createdAt": "2026-09-01",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f092096-moka:10000210": {
+      "productPageUrl": "https://item.rakuten.co.jp/f092096-moka/r03/",
+      "shopName": "栃木県真岡市",
+      "genres": [
+        "花・ガーデン・DIY"
+      ],
+      "firstSeenAt": "2026-09-01",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-01_花・ガーデン・DIY_単発.md",
+          "genre": "花・ガーデン・DIY",
+          "createdAt": "2026-09-01",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f272167-kawachinagano:10000805": {
+      "productPageUrl": "https://item.rakuten.co.jp/f272167-kawachinagano/15001-30025187/",
+      "shopName": "大阪府河内長野市",
+      "genres": [
+        "花・ガーデン・DIY"
+      ],
+      "firstSeenAt": "2026-09-01",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-01_花・ガーデン・DIY_単発.md",
+          "genre": "花・ガーデン・DIY",
+          "createdAt": "2026-09-01",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f292052-kashihara:10000950": {
+      "productPageUrl": "https://item.rakuten.co.jp/f292052-kashihara/21804-30026972/",
+      "shopName": "奈良県橿原市",
+      "genres": [
+        "インナー・下着・ナイトウェア"
+      ],
+      "firstSeenAt": "2026-09-02",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-02_インナー・下着・ナイトウェア_単発.md",
+          "genre": "インナー・下着・ナイトウェア",
+          "createdAt": "2026-09-02",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f402257-ukiha:10003287": {
+      "productPageUrl": "https://item.rakuten.co.jp/f402257-ukiha/u051-1cp-berr/",
+      "shopName": "福岡県うきは市",
+      "genres": [
+        "インナー・下着・ナイトウェア"
+      ],
+      "firstSeenAt": "2026-09-02",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-02_インナー・下着・ナイトウェア_単発.md",
+          "genre": "インナー・下着・ナイトウェア",
+          "createdAt": "2026-09-02",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f272108-hirakata:10000260": {
+      "productPageUrl": "https://item.rakuten.co.jp/f272108-hirakata/1133794/",
+      "shopName": "大阪府枚方市",
+      "genres": [
+        "インナー・下着・ナイトウェア"
+      ],
+      "firstSeenAt": "2026-09-02",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-02_インナー・下着・ナイトウェア_単発.md",
+          "genre": "インナー・下着・ナイトウェア",
+          "createdAt": "2026-09-02",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f112330-kitamoto:10000052": {
+      "productPageUrl": "https://item.rakuten.co.jp/f112330-kitamoto/10000052/",
+      "shopName": "埼玉県北本市",
+      "genres": [
+        "メンズファッション"
+      ],
+      "firstSeenAt": "2026-09-02",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-02_メンズファッション_単発.md",
+          "genre": "メンズファッション",
+          "createdAt": "2026-09-02",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f272183-daito:10001901": {
+      "productPageUrl": "https://item.rakuten.co.jp/f272183-daito/af148/",
+      "shopName": "大阪府大東市",
+      "genres": [
+        "メンズファッション"
+      ],
+      "firstSeenAt": "2026-09-02",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-02_メンズファッション_単発.md",
+          "genre": "メンズファッション",
+          "createdAt": "2026-09-02",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f261009-kyoto:10009203": {
+      "productPageUrl": "https://item.rakuten.co.jp/f261009-kyoto/b-sp16/",
+      "shopName": "京都府京都市",
+      "genres": [
+        "メンズファッション"
+      ],
+      "firstSeenAt": "2026-09-02",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-02_メンズファッション_単発.md",
+          "genre": "メンズファッション",
+          "createdAt": "2026-09-02",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f263664-seika:10000032": {
+      "productPageUrl": "https://item.rakuten.co.jp/f263664-seika/1209378/",
+      "shopName": "京都府精華町",
+      "genres": [
+        "バッグ・小物・ブランド雑貨"
+      ],
+      "firstSeenAt": "2026-09-03",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-03_バッグ・小物・ブランド雑貨_単発.md",
+          "genre": "バッグ・小物・ブランド雑貨",
+          "createdAt": "2026-09-03",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f032140-hachimantai:10000111": {
+      "productPageUrl": "https://item.rakuten.co.jp/f032140-hachimantai/hmg229/",
+      "shopName": "岩手県八幡平市",
+      "genres": [
+        "バッグ・小物・ブランド雑貨"
+      ],
+      "firstSeenAt": "2026-09-03",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-03_バッグ・小物・ブランド雑貨_単発.md",
+          "genre": "バッグ・小物・ブランド雑貨",
+          "createdAt": "2026-09-03",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f032158-oshu:10000451": {
+      "productPageUrl": "https://item.rakuten.co.jp/f032158-oshu/item0409/",
+      "shopName": "岩手県奥州市",
+      "genres": [
+        "バッグ・小物・ブランド雑貨"
+      ],
+      "firstSeenAt": "2026-09-03",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-03_バッグ・小物・ブランド雑貨_単発.md",
+          "genre": "バッグ・小物・ブランド雑貨",
+          "createdAt": "2026-09-03",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f252042-omihachiman:10001184": {
+      "productPageUrl": "https://item.rakuten.co.jp/f252042-omihachiman/r017sm/",
+      "shopName": "滋賀県近江八幡市",
+      "genres": [
+        "靴"
+      ],
+      "firstSeenAt": "2026-09-03",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-03_靴_単発.md",
+          "genre": "靴",
+          "createdAt": "2026-09-03",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f052159-semboku:10001369": {
+      "productPageUrl": "https://item.rakuten.co.jp/f052159-semboku/56600540/",
+      "shopName": "秋田県仙北市",
+      "genres": [
+        "靴"
+      ],
+      "firstSeenAt": "2026-09-03",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-03_靴_単発.md",
+          "genre": "靴",
+          "createdAt": "2026-09-03",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f292036-yamatokoriyama:10000307": {
+      "productPageUrl": "https://item.rakuten.co.jp/f292036-yamatokoriyama/59900273/",
+      "shopName": "奈良県大和郡山市",
+      "genres": [
+        "靴"
+      ],
+      "firstSeenAt": "2026-09-03",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-03_靴_単発.md",
+          "genre": "靴",
+          "createdAt": "2026-09-03",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f261009-kyoto:10008133": {
+      "productPageUrl": "https://item.rakuten.co.jp/f261009-kyoto/ka033/",
+      "shopName": "京都府京都市",
+      "genres": [
+        "本・雑誌・コミック"
+      ],
+      "firstSeenAt": "2026-09-04",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-04_本・雑誌・コミック_単発.md",
+          "genre": "本・雑誌・コミック",
+          "createdAt": "2026-09-04",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f016390-sarabetsu:10000091": {
+      "productPageUrl": "https://item.rakuten.co.jp/f016390-sarabetsu/f21p-097/",
+      "shopName": "北海道更別村",
+      "genres": [
+        "本・雑誌・コミック"
+      ],
+      "firstSeenAt": "2026-09-04",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-04_本・雑誌・コミック_単発.md",
+          "genre": "本・雑誌・コミック",
+          "createdAt": "2026-09-04",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f402214-dazaifu:10001119": {
+      "productPageUrl": "https://item.rakuten.co.jp/f402214-dazaifu/029-1258/",
+      "shopName": "福岡県太宰府市",
+      "genres": [
+        "本・雑誌・コミック"
+      ],
+      "firstSeenAt": "2026-09-04",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-04_本・雑誌・コミック_単発.md",
+          "genre": "本・雑誌・コミック",
+          "createdAt": "2026-09-04",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f052078-yuzawa:10001824": {
+      "productPageUrl": "https://item.rakuten.co.jp/f052078-yuzawa/f11940/",
+      "shopName": "秋田県湯沢市",
+      "genres": [
+        "腕時計"
+      ],
+      "firstSeenAt": "2026-09-04",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-04_腕時計_単発.md",
+          "genre": "腕時計",
+          "createdAt": "2026-09-04",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f172014-kanazawa:10002443": {
+      "productPageUrl": "https://item.rakuten.co.jp/f172014-kanazawa/ev018/",
+      "shopName": "石川県金沢市",
+      "genres": [
+        "腕時計"
+      ],
+      "firstSeenAt": "2026-09-04",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-04_腕時計_単発.md",
+          "genre": "腕時計",
+          "createdAt": "2026-09-04",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f282219-tambasasayama:10000513": {
+      "productPageUrl": "https://item.rakuten.co.jp/f282219-tambasasayama/ce05/",
+      "shopName": "兵庫県丹波篠山市",
+      "genres": [
+        "腕時計"
+      ],
+      "firstSeenAt": "2026-09-04",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-04_腕時計_単発.md",
+          "genre": "腕時計",
+          "createdAt": "2026-09-04",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f261009-kyoto:10008868": {
+      "productPageUrl": "https://item.rakuten.co.jp/f261009-kyoto/ka036/",
+      "shopName": "京都府京都市",
+      "genres": [
+        "CD・DVD"
+      ],
+      "firstSeenAt": "2026-09-05",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-05_CD・DVD_単発.md",
+          "genre": "CD・DVD",
+          "createdAt": "2026-09-05",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f412023-karatsu:10002175": {
+      "productPageUrl": "https://item.rakuten.co.jp/f412023-karatsu/ra-1070-11899/",
+      "shopName": "佐賀県唐津市",
+      "genres": [
+        "CD・DVD"
+      ],
+      "firstSeenAt": "2026-09-05",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-05_CD・DVD_単発.md",
+          "genre": "CD・DVD",
+          "createdAt": "2026-09-05",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f440001-oita:10000008": {
+      "productPageUrl": "https://item.rakuten.co.jp/f440001-oita/ag001/",
+      "shopName": "大分県",
+      "genres": [
+        "CD・DVD"
+      ],
+      "firstSeenAt": "2026-09-05",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-05_CD・DVD_単発.md",
+          "genre": "CD・DVD",
+          "createdAt": "2026-09-05",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f232106-kariya:10000399": {
+      "productPageUrl": "https://item.rakuten.co.jp/f232106-kariya/440/",
+      "shopName": "愛知県刈谷市",
+      "genres": [
+        "テレビゲーム"
+      ],
+      "firstSeenAt": "2026-09-05",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-05_テレビゲーム_単発.md",
+          "genre": "テレビゲーム",
+          "createdAt": "2026-09-05",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f112160-hanyu:10000611": {
+      "productPageUrl": "https://item.rakuten.co.jp/f112160-hanyu/sangatu001/",
+      "shopName": "埼玉県羽生市",
+      "genres": [
+        "テレビゲーム"
+      ],
+      "firstSeenAt": "2026-09-05",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-05_テレビゲーム_単発.md",
+          "genre": "テレビゲーム",
+          "createdAt": "2026-09-05",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f231002-nagoya:10005957": {
+      "productPageUrl": "https://item.rakuten.co.jp/f231002-nagoya/zc001/",
+      "shopName": "愛知県名古屋市",
+      "genres": [
+        "テレビゲーム"
+      ],
+      "firstSeenAt": "2026-09-05",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-05_テレビゲーム_単発.md",
+          "genre": "テレビゲーム",
+          "createdAt": "2026-09-05",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f363880-kaiyo:10001424": {
+      "productPageUrl": "https://item.rakuten.co.jp/f363880-kaiyo/ast03/",
+      "shopName": "徳島県海陽町",
+      "genres": [
+        "ホビー"
+      ],
+      "firstSeenAt": "2026-09-06",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-06_ホビー_単発.md",
+          "genre": "ホビー",
+          "createdAt": "2026-09-06",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f284432-fukusaki:10000552": {
+      "productPageUrl": "https://item.rakuten.co.jp/f284432-fukusaki/52560416/",
+      "shopName": "兵庫県福崎町",
+      "genres": [
+        "ホビー"
+      ],
+      "firstSeenAt": "2026-09-06",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-06_ホビー_単発.md",
+          "genre": "ホビー",
+          "createdAt": "2026-09-06",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f062103-tendo:10000254": {
+      "productPageUrl": "https://item.rakuten.co.jp/f062103-tendo/f8030/",
+      "shopName": "山形県天童市",
+      "genres": [
+        "ホビー"
+      ],
+      "firstSeenAt": "2026-09-06",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-06_ホビー_単発.md",
+          "genre": "ホビー",
+          "createdAt": "2026-09-06",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f062022-yonezawa:10001487": {
+      "productPageUrl": "https://item.rakuten.co.jp/f062022-yonezawa/yo075-001/",
+      "shopName": "山形県米沢市",
+      "genres": [
+        "楽器・音響機器"
+      ],
+      "firstSeenAt": "2026-09-06",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-06_楽器・音響機器_単発.md",
+          "genre": "楽器・音響機器",
+          "createdAt": "2026-09-06",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f212148-kani:10000482": {
+      "productPageUrl": "https://item.rakuten.co.jp/f212148-kani/4658834/",
+      "shopName": "岐阜県可児市",
+      "genres": [
+        "楽器・音響機器"
+      ],
+      "firstSeenAt": "2026-09-06",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-06_楽器・音響機器_単発.md",
+          "genre": "楽器・音響機器",
+          "createdAt": "2026-09-06",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f152048-sanjo:10000767": {
+      "productPageUrl": "https://item.rakuten.co.jp/f152048-sanjo/697p001/",
+      "shopName": "新潟県三条市",
+      "genres": [
+        "楽器・音響機器"
+      ],
+      "firstSeenAt": "2026-09-06",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-06_楽器・音響機器_単発.md",
+          "genre": "楽器・音響機器",
+          "createdAt": "2026-09-06",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f221309-hamamatsu:10006600": {
+      "productPageUrl": "https://item.rakuten.co.jp/f221309-hamamatsu/53600143/",
+      "shopName": "静岡県浜松市",
+      "genres": [
+        "パソコン・周辺機器"
+      ],
+      "firstSeenAt": "2026-09-07",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-07_パソコン・周辺機器_単発.md",
+          "genre": "パソコン・周辺機器",
+          "createdAt": "2026-09-07",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f112429-hidaka:10000137": {
+      "productPageUrl": "https://item.rakuten.co.jp/f112429-hidaka/57120051/",
+      "shopName": "埼玉県日高市",
+      "genres": [
+        "パソコン・周辺機器"
+      ],
+      "firstSeenAt": "2026-09-07",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-07_パソコン・周辺機器_単発.md",
+          "genre": "パソコン・周辺機器",
+          "createdAt": "2026-09-07",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f042021-ishinomaki:10001043": {
+      "productPageUrl": "https://item.rakuten.co.jp/f042021-ishinomaki/is10002/",
+      "shopName": "宮城県石巻市",
+      "genres": [
+        "パソコン・周辺機器"
+      ],
+      "firstSeenAt": "2026-09-07",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-07_パソコン・周辺機器_単発.md",
+          "genre": "パソコン・周辺機器",
+          "createdAt": "2026-09-07",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f221309-hamamatsu:10002523": {
+      "productPageUrl": "https://item.rakuten.co.jp/f221309-hamamatsu/57863585/",
+      "shopName": "静岡県浜松市",
+      "genres": [
+        "車用品・バイク用品"
+      ],
+      "firstSeenAt": "2026-09-07",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-07_車用品・バイク用品_単発.md",
+          "genre": "車用品・バイク用品",
+          "createdAt": "2026-09-07",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f052124-daisen:10000645": {
+      "productPageUrl": "https://item.rakuten.co.jp/f052124-daisen/bm001/",
+      "shopName": "秋田県大仙市",
+      "genres": [
+        "車用品・バイク用品"
+      ],
+      "firstSeenAt": "2026-09-07",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-07_車用品・バイク用品_単発.md",
+          "genre": "車用品・バイク用品",
+          "createdAt": "2026-09-07",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f172073-hakui:10000682": {
+      "productPageUrl": "https://item.rakuten.co.jp/f172073-hakui/p080/",
+      "shopName": "石川県羽咋市",
+      "genres": [
+        "車用品・バイク用品"
+      ],
+      "firstSeenAt": "2026-09-07",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-07_車用品・バイク用品_単発.md",
+          "genre": "車用品・バイク用品",
+          "createdAt": "2026-09-07",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f015784-shiraoi:10001448": {
+      "productPageUrl": "https://item.rakuten.co.jp/f015784-shiraoi/bo007/",
+      "shopName": "北海道白老町",
+      "genres": [
+        "スマートフォン・タブレット"
+      ],
+      "firstSeenAt": "2026-09-08",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-08_スマートフォン・タブレット_単発.md",
+          "genre": "スマートフォン・タブレット",
+          "createdAt": "2026-09-08",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f202037-ueda:10002168": {
+      "productPageUrl": "https://item.rakuten.co.jp/f202037-ueda/53121229/",
+      "shopName": "長野県上田市",
+      "genres": [
+        "スマートフォン・タブレット"
+      ],
+      "firstSeenAt": "2026-09-08",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-08_スマートフォン・タブレット_単発.md",
+          "genre": "スマートフォン・タブレット",
+          "createdAt": "2026-09-08",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f112305-niiza:10000077": {
+      "productPageUrl": "https://item.rakuten.co.jp/f112305-niiza/ag-1/",
+      "shopName": "埼玉県新座市",
+      "genres": [
+        "スマートフォン・タブレット"
+      ],
+      "firstSeenAt": "2026-09-08",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-08_スマートフォン・タブレット_単発.md",
+          "genre": "スマートフォン・タブレット",
+          "createdAt": "2026-09-08",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f363880-kaiyo:10001134": {
+      "productPageUrl": "https://item.rakuten.co.jp/f363880-kaiyo/mmt71/",
+      "shopName": "徳島県海陽町",
+      "genres": [
+        "精肉・肉加工品"
+      ],
+      "firstSeenAt": "2026-09-08",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-08_精肉・肉加工品_単発.md",
+          "genre": "精肉・肉加工品",
+          "createdAt": "2026-09-08",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f012157-bibai:10000130": {
+      "productPageUrl": "https://item.rakuten.co.jp/f012157-bibai/sutoreisibu-1/",
+      "shopName": "北海道美唄市",
+      "genres": [
+        "精肉・肉加工品"
+      ],
+      "firstSeenAt": "2026-09-08",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-08_精肉・肉加工品_単発.md",
+          "genre": "精肉・肉加工品",
+          "createdAt": "2026-09-08",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f016331-kamishihoro:10000104": {
+      "productPageUrl": "https://item.rakuten.co.jp/f016331-kamishihoro/10000104/",
+      "shopName": "北海道上士幌町",
+      "genres": [
+        "精肉・肉加工品"
+      ],
+      "firstSeenAt": "2026-09-08",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-08_精肉・肉加工品_単発.md",
+          "genre": "精肉・肉加工品",
+          "createdAt": "2026-09-08",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f152081-ojiya:10000175": {
+      "productPageUrl": "https://item.rakuten.co.jp/f152081-ojiya/080-001/",
+      "shopName": "新潟県小千谷市",
+      "genres": [
+        "米・雑穀"
+      ],
+      "firstSeenAt": "2026-09-09",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-09_米・雑穀_単発.md",
+          "genre": "米・雑穀",
+          "createdAt": "2026-09-09",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f022055-goshogawara:10000342": {
+      "productPageUrl": "https://item.rakuten.co.jp/f022055-goshogawara/58980283/",
+      "shopName": "青森県五所川原市",
+      "genres": [
+        "米・雑穀"
+      ],
+      "firstSeenAt": "2026-09-09",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-09_米・雑穀_単発.md",
+          "genre": "米・雑穀",
+          "createdAt": "2026-09-09",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f064611-yuza:10000484": {
+      "productPageUrl": "https://item.rakuten.co.jp/f064611-yuza/2028-00298-00/",
+      "shopName": "山形県遊佐町",
+      "genres": [
+        "米・雑穀"
+      ],
+      "firstSeenAt": "2026-09-09",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-09_米・雑穀_単発.md",
+          "genre": "米・雑穀",
+          "createdAt": "2026-09-09",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f234451-minamichita:10001029": {
+      "productPageUrl": "https://item.rakuten.co.jp/f234451-minamichita/maruhon0789/",
+      "shopName": "愛知県南知多町",
+      "genres": [
+        "魚介類・水産加工品"
+      ],
+      "firstSeenAt": "2026-09-09",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-09_魚介類・水産加工品_単発.md",
+          "genre": "魚介類・水産加工品",
+          "createdAt": "2026-09-09",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f401005-kitakyushu:10000222": {
+      "productPageUrl": "https://item.rakuten.co.jp/f401005-kitakyushu/17917-30029457/",
+      "shopName": "福岡県北九州市",
+      "genres": [
+        "魚介類・水産加工品"
+      ],
+      "firstSeenAt": "2026-09-09",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-09_魚介類・水産加工品_単発.md",
+          "genre": "魚介類・水産加工品",
+          "createdAt": "2026-09-09",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f304271-kitayama:10000373": {
+      "productPageUrl": "https://item.rakuten.co.jp/f304271-kitayama/nks110/",
+      "shopName": "和歌山県北山村",
+      "genres": [
+        "魚介類・水産加工品"
+      ],
+      "firstSeenAt": "2026-09-09",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-09_魚介類・水産加工品_単発.md",
+          "genre": "魚介類・水産加工品",
+          "createdAt": "2026-09-09",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f062073-kaminoyama:10001209": {
+      "productPageUrl": "https://item.rakuten.co.jp/f062073-kaminoyama/10000039/",
+      "shopName": "山形県上山市",
+      "genres": [
+        "スイーツ・お菓子"
+      ],
+      "firstSeenAt": "2026-09-10",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-10_スイーツ・お菓子_単発.md",
+          "genre": "スイーツ・お菓子",
+          "createdAt": "2026-09-10",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f392014-kochi:10002765": {
+      "productPageUrl": "https://item.rakuten.co.jp/f392014-kochi/ca24/",
+      "shopName": "高知県高知市",
+      "genres": [
+        "フルーツ・果物"
+      ],
+      "firstSeenAt": "2026-09-10",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-10_フルーツ・果物_単発.md",
+          "genre": "フルーツ・果物",
+          "createdAt": "2026-09-10",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f452076-kushima:10000210": {
+      "productPageUrl": "https://item.rakuten.co.jp/f452076-kushima/41497/",
+      "shopName": "宮崎県串間市",
+      "genres": [
+        "フルーツ・果物"
+      ],
+      "firstSeenAt": "2026-09-10",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-10_フルーツ・果物_単発.md",
+          "genre": "フルーツ・果物",
+          "createdAt": "2026-09-10",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f012297-furano:10000198": {
+      "productPageUrl": "https://item.rakuten.co.jp/f012297-furano/1257988/",
+      "shopName": "北海道富良野市",
+      "genres": [
+        "フルーツ・果物"
+      ],
+      "firstSeenAt": "2026-09-10",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-10_フルーツ・果物_単発.md",
+          "genre": "フルーツ・果物",
+          "createdAt": "2026-09-10",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f402044-nogatashi:10001020": {
+      "productPageUrl": "https://item.rakuten.co.jp/f402044-nogatashi/090-3417/",
+      "shopName": "福岡県直方市",
+      "genres": [
+        "ビール・洋酒"
+      ],
+      "firstSeenAt": "2026-09-11",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-11_ビール・洋酒_単発.md",
+          "genre": "ビール・洋酒",
+          "createdAt": "2026-09-11",
+          "status": "draft",
+          "label": "候補A"
+        }
+      ]
+    },
+    "f465054-yakushima:10001198": {
+      "productPageUrl": "https://item.rakuten.co.jp/f465054-yakushima/k125/",
+      "shopName": "鹿児島県屋久島町",
+      "genres": [
+        "ビール・洋酒"
+      ],
+      "firstSeenAt": "2026-09-11",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-11_ビール・洋酒_単発.md",
+          "genre": "ビール・洋酒",
+          "createdAt": "2026-09-11",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f454061-tsuno:10000458": {
+      "productPageUrl": "https://item.rakuten.co.jp/f454061-tsuno/5801-60000074/",
+      "shopName": "宮崎県都農町",
+      "genres": [
+        "ビール・洋酒"
+      ],
+      "firstSeenAt": "2026-09-11",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-11_ビール・洋酒_単発.md",
+          "genre": "ビール・洋酒",
+          "createdAt": "2026-09-11",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    },
+    "f352080-iwakuni:10000219": {
+      "productPageUrl": "https://item.rakuten.co.jp/f352080-iwakuni/75-03/",
+      "shopName": "山口県岩国市",
+      "genres": [
+        "日本酒・焼酎"
+      ],
+      "firstSeenAt": "2026-09-11",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-11_日本酒・焼酎_単発.md",
+          "genre": "日本酒・焼酎",
+          "createdAt": "2026-09-11",
+          "status": "draft",
+          "label": "候補B"
+        }
+      ]
+    },
+    "f462063-akune:10000784": {
+      "productPageUrl": "https://item.rakuten.co.jp/f462063-akune/akune-41-1/",
+      "shopName": "鹿児島県阿久根市",
+      "genres": [
+        "日本酒・焼酎"
+      ],
+      "firstSeenAt": "2026-09-11",
+      "occurrences": [
+        {
+          "file": "posts/2026-09-11_日本酒・焼酎_単発.md",
+          "genre": "日本酒・焼酎",
+          "createdAt": "2026-09-11",
+          "status": "draft",
+          "label": "候補C"
+        }
+      ]
+    }
+  }
+}
